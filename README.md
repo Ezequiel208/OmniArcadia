@@ -25,7 +25,14 @@ Ideal como portfolio para mostrar manejo de UI, audio, estados y navegación en 
 ---
 
 ## 🖼️ Capturas
-> Agregá aquí imágenes de cada minijuego y del selector de juegos.
+> Memoria:
+![Juego de Memoria](assets/screenshots/memoria.png)
+
+Adivina la Canción:
+![Adivina la Canción](assets/screenshots/guess_song.png)
+
+Piedra, Papel o Tijera:
+![PPT](assets/screenshots/rock_paper_scissors.png)
 
 ---
 
